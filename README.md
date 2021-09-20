@@ -4,7 +4,7 @@
 
 # COVIDRF
 
-The COVIDRF is a donating website that helps the people affected by covid to overcome the covid pandemic.
+The COVIDRF is a donating website that helps the people affected by covid to overcome the covid pandemic. I have integrated 'Razorpay' Payment gateway for accepting donations for COVIDRF. 
 
 ## About 'COVIDRF'
 "COVIDRF",Covid Relief Fund is a organization, where the volunteers can donate certain amount of money for 
