@@ -15,3 +15,7 @@ The COVIDRF is a donating website that helps the people affected by covid to ove
 ## Tech Stack
 1. HTML
 2. CSS
+
+## Video Demo Link
+
+Youtube - [https://youtu.be/oD7wNrojl-M](https://youtu.be/oD7wNrojl-M)
